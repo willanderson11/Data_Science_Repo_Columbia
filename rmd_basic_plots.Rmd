@@ -22,7 +22,7 @@ plot_df = tibble(
 )
 ```
 
-#Hello World
+#Hello World  
 
 First we show a histogram of the `x` variable.
 
