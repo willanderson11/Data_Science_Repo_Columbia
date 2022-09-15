@@ -2,13 +2,12 @@
 title: "Simple document"
 author: "Will Anderson"
 date: 2022-09-13
-output: 
-  html_document:
-    toc: true
-    toc_float: true
-    code_folding: hide
+output: github_document
+  
 ---
-
+ <!-- toc: true
+    toc_float: true
+    code_folding: hide -->
 <!--
 I'd like to save this text for later and don't want to delete it yet.
 -->
